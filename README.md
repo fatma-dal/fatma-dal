@@ -1,8 +1,8 @@
 ## Hi there 👋
-🧑‍💻 Fatma Dalhoumi
-🌍 Tunis, Tunisie | 📧 fatmadalhoumi123@gmail.com | [LinkedIn](https://www.linkedin.com/in/fatma-dalhoumi-b427b51b3/)
+🧑‍💻 Fatma Dalhoumi</br>
+🌍 Tunis, Tunisie | 📧 fatmadalhoumi123@gmail.com | [LinkedIn](https://www.linkedin.com/in/fatma-dalhoumi-b427b51b3/)</br></br>
 
-🎓 Full Stack Developer | Passionate about building impactful tech solutions
+🎓 Full Stack Developer | Passionate about building impactful tech solutions</br>
 💡 Specialized in software engineering, web development, and agile project management.
 
 🧭 About Me</br>

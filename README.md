@@ -5,19 +5,19 @@
 🎓 Full Stack Developer | Passionate about building impactful tech solutions
 💡 Specialized in software engineering, web development, and agile project management.
 
-🧭 About Me
-I’m a highly motivated full stack developer with a Bachelor's degree in Computer Science (Software Engineering & Information Systems) and a U.S. Full Stack Web Development certification from Coding Dojo Africa.
+🧭 About Me</br>
+I’m a highly motivated full stack developer with a Bachelor's degree in Computer Science (Software Engineering & Information Systems) and a U.S. Full Stack Web Development certification from Coding Dojo Africa.</br>
 
-I'm passionate about transforming ideas into user-centered digital solutions using modern web technologies. My journey combines academic excellence, hands-on projects, internships in remote and agile environments, and active involvement in tech communities like PMI.
+I'm passionate about transforming ideas into user-centered digital solutions using modern web technologies. My journey combines academic excellence, hands-on projects, internships in remote and agile environments, and active involvement in tech communities like PMI.</br></br>
 
-💼 Tech Stack
-Languages & Frameworks:
-JavaScript, Python, Java, HTML, CSS, TypeScript
-React, Node.js, Express.js, Spring Boot, Flask, Django, Ionic, Bootstrap
+💼 Tech Stack</br>
+Languages & Frameworks:</br>
+JavaScript, Python, Java, HTML, CSS, TypeScript</br>
+React, Node.js, Express.js, Spring Boot, Flask, Django, Ionic, Bootstrap</br>
 
-Databases & Cloud:
-MySQL, MongoDB, PostgreSQL, SQLite, Firebase, AWS (Amplify, RDS...), Docker
+Databases & Cloud:</br>
+MySQL, MongoDB, PostgreSQL, SQLite, Firebase, AWS (Amplify, RDS...), Docker</br></br>
 
-Tools & Methodologies:
+Tools & Methodologies:</br>
 Git, GitHub, GitLab, Jira, Trello, Figma, VS Code, Lucid, SCRUM
 

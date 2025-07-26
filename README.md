@@ -1,6 +1,6 @@
 ## Hi there 👋
 🧑‍💻 Fatma Dalhoumi
-🌍 Tunis, Tunisie | 📧 fatmadalhoumi123@gmail.com | LinkedIn | 📞 +216 20 710 117
+🌍 Tunis, Tunisie | 📧 fatmadalhoumi123@gmail.com | [LinkedIn](https://www.linkedin.com/in/fatma-dalhoumi-b427b51b3/)
 
 🎓 Full Stack Developer | Passionate about building impactful tech solutions
 💡 Specialized in software engineering, web development, and agile project management.
@@ -16,7 +16,7 @@ JavaScript, Python, Java, HTML, CSS, TypeScript
 React, Node.js, Express.js, Spring Boot, Flask, Django, Ionic, Bootstrap
 
 Databases & Cloud:
-MySQL, MongoDB, PostgreSQL, SQLite, Firebase, AWS (Amplify, RDS), Docker
+MySQL, MongoDB, PostgreSQL, SQLite, Firebase, AWS (Amplify, RDS...), Docker
 
 Tools & Methodologies:
 Git, GitHub, GitLab, Jira, Trello, Figma, VS Code, Lucid, SCRUM
